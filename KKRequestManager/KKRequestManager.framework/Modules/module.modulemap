@@ -1,0 +1,6 @@
+framework module KKRequestManager {
+  umbrella header "KKRequestManager.h"
+
+  export *
+  module * { export * }
+}
